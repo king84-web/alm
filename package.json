@@ -33,7 +33,6 @@
     "@nestjs/platform-express": "^11.1.9",
     "@nestjs/schedule": "^6.1.0",
     "@nestjs/serve-static": "^5.0.4",
-    "@prisma/adapter-pg": "^7.0.1",
     "@prisma/client": "6.19.2",
     "@types/pdfkit": "^0.17.4",
     "bcrypt": "^6.0.0",
